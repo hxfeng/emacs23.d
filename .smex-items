@@ -1,0 +1,50 @@
+
+;; ----- smex-history -----
+(
+ rgrep
+ calendar
+ replace-string
+ revert-buffer
+ goto-line
+ menu-bar-mode
+ windmove-default-keybindings
+)
+
+;; ----- smex-data -----
+(
+ (package-install . 28)
+ (customize-face . 1)
+ (load-theme . 18)
+ (longlines-mode . 10)
+ (toggle-word-wrap . 1)
+ (hl-line-mode . 3)
+ (paredit-kill . 1)
+ (disable-paredit-mode . 2)
+ (text-mode . 2)
+ (js-mode . 2)
+ (version . 2)
+ (ispell . 1)
+ (clojure-jack-in . 4)
+ (find-file-literally . 1)
+ (coffee-mode . 3)
+ (cua-mode . 4)
+ (describe-mode . 1)
+ (package-menu-refresh . 1)
+ (org-reload . 1)
+ (coffee-repl . 5)
+ (easy-menu-remove . 2)
+ (revert-buffer . 11)
+ (rgrep . 30)
+ (javascript-mode . 1)
+ (paredit-mode . 1)
+ (eval-buffer . 1)
+ (cua-selection-mode . 4)
+ (windmove-default-keybindings . 2)
+ (eval-expression . 1)
+ (describe-key . 1)
+ (windmove-up . 1)
+ (menu-bar-mode . 2)
+ (goto-line . 1)
+ (replace-string . 1)
+ (calendar . 1)
+)
